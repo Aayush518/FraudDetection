@@ -70,4 +70,3 @@ To run the app locally on your machine, follow these steps:
 - [scikit-learn](https://scikit-learn.org/)
 - [Seaborn](https://seaborn.pydata.org/)
 - [Matplotlib](https://matplotlib.org/)
-```
