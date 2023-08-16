@@ -1,5 +1,5 @@
 
-# Credit Card Fraud Detection Streamlit App
+# Credit Card Fraud Detection Streamlit App (Ongoing) 
 
 This is a simple Streamlit web application for credit card fraud detection using a logistic regression model. The app allows users to input values for various features and predicts whether a credit card transaction is fraudulent or not.
 
