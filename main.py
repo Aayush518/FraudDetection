@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 # Load the dataset
 data = pd.read_csv('creditcard.csv')
 
-# Preprocess the data
+# 
 def preprocess_data(data):
     std_scaler = StandardScaler()
     data['scaled_amount'] = std_scaler.fit_transform(data['Amount'].values.reshape(-1, 1))
